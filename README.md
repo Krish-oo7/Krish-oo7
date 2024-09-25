@@ -31,7 +31,7 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
 
 ## Connect with me  
 <div align="center">
-<a href="KrishnaS.R@outloo.com" target="_blank">
+<a href="mailto:KrishnaS.R@outloo.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=email&logoColor=white alt=Email style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rajput-krishna" target="_blank">
