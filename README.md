@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Krishna Singh Rajput</h1>
-Professional Problem Solver. As a dedicated graduate student in Data Science, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
+<h1 align="left">Hi 👋, I'm Krishna Singh Rajput - Problem Solver</h1>
+As a dedicated graduate student in Data Science, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
 
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
   
@@ -38,10 +38,3 @@ Professional Problem Solver. As a dedicated graduate student in Data Science, I'
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
-## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krish-007&show_icons=true&theme=merko&locale=en&layout=compact" alt="Krish-007" /></p>
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krish-007&label=Profile%20views&color=0e75b6&style=flat" alt="Krish-007" /> </p>
-</br>
