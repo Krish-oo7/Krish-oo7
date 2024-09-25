@@ -31,11 +31,11 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
 
 ## Connect with me  
 <div align="center">
-  <a href="mailto:KrishnaS.R@outlook.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  <a href="mailto:KrishnaS.R@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px; margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/rajput-krishna" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/rajput-krishna" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px; margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/Krish-007" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
