@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Krishna Singh Rajput - Problem Solver</h1>
+<h1 align="left">Hi 👋, I'm Krishna Singh Rajput</h1>
 As a dedicated graduate student in Data Science, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
 
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
