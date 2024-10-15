@@ -31,6 +31,7 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
   <a href="https://krish-oo7.github.io/portfolio.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+    <img src="https://krish-oo7.github.io/portfolio.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
   </a>  
 </div>
