@@ -30,7 +30,7 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
   <a href="https://linkedin.com/in/rajput-krishna" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/Krish-007" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  <a href="https://krish-oo7.github.io/porfolio.io/" target="_blank">
+    <img src="https://img.shields.io/badge/website-%2324292E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>  
 </div>
