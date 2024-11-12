@@ -7,7 +7,7 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
 - 🔭 I am currently working as a Head of Machine Learning Domain at The AI Society at ASU.
   
 
-- 🌱 I’m currently learning Llama3 - an open-source large language model created by Meta AI
+- 🌱 I’m currently Reasearching on Agents (LLM) - to improve reasoning with tabular data with mix modalities.
 
   
 
