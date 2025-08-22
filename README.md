@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Krishna Singh Rajput</h1>
-As a Data Scientist with over 3 years of expereince, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
+As a Data Scientist with over 3 years of expereince, I'm thrilled to welcome you to my GitHub realm, a place where raw data transforms into captivating narratives.
 
 - 🧑‍🎓 I recently finished my Master's in Data Science from Arizona State University
   
