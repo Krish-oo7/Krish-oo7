@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Krishna Singh Rajput</h1>
-As a dedicated graduate student in Data Science, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
+As a Data Scientist with over 3 years of expereince, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
 
-- 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
+- 🧑‍🎓 I recently finished my Master's in Data Science from Arizona State University
   
 
-- 🔭 I am currently working as a Head of Machine Learning Domain at The AI Society at ASU.
+- 🔭 I am currently working as a Data Scientist at HCL Tech.
   
 
 - 🌱 I’m currently Reasearching on Agents (LLM) - to improve reasoning with tabular data with mix modalities.
@@ -27,10 +27,10 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
   <a href="mailto:KrishnaS.R@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/rajput-krishna" target="_blank">
+  <a href="https://linkedin.com/in/ds-krishna" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://krish-oo7.github.io/portfolio.io/" target="_blank">
+<!--   <a href="https://krish-oo7.github.io/portfolio.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
-  </a>  
+  </a>   -->
 </div>
