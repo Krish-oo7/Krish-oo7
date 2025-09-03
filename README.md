@@ -4,7 +4,7 @@ As a Data Scientist with over 3 years of expereince, I'm thrilled to welcome you
 - 🧑‍🎓 I recently finished my Master's in Data Science from Arizona State University
   
 
-- 🔭 I am currently working as a Data Scientist at HCL Tech.
+<!--  - 🔭 I am currently working as a Data Scientist at HCL Tech. -->
   
 
 - 🌱 I’m currently Reasearching on Agents (LLM) - to improve reasoning with tabular data with mix modalities.
